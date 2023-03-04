@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        // essentials
+        "ms-toolsai.jupyter",
+        "ms-python.python",
+        // good to have
+        // "GitHub.copilot",
+        // "aaron-bond.better-comments",
+    ],
+}
