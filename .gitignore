@@ -130,4 +130,3 @@ dmypy.json
 
 # ignore data directory except for australia_rain.zip
 data/*
-!data/australia_rain.zip

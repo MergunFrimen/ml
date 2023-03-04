@@ -9,6 +9,8 @@ Machine learning project about weather forecast.
 
 Switch Jupyter VSCode extension to pre-release version otherwise the notebooks won't work.
 
+You will also need to add [australia_rain.zip](https://is.muni.cz/auth/el/fi/jaro2023/IB031/um/cviceni/project_datasets/australia_rain.zip) dataset to [data](./data) directory.
+
 ## How to run project
 
 ### VSCode
