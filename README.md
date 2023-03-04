@@ -7,6 +7,8 @@ Machine learning project about weather forecast.
 - Python 3
 - VSCode (optional)
 
+Switch Jupyter VSCode extension to pre-release version otherwise the notebooks won't work.
+
 ## How to run project
 
 ### VSCode
