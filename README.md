@@ -73,7 +73,7 @@ Don't forget to commit the changes.
 
 - [**@denbalogh**](https://github.com/denbalogh)
 - [**@MergunFrimen**](https://github.com/MergunFrimen)
-- [**@WhiteAgller: TODO**](https://github.com/WhiteAgller)
+- [**@WhiteAgller**](https://github.com/WhiteAgller)
 
 
 ## License
