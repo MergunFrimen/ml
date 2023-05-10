@@ -102,3 +102,8 @@ webcolors==1.12
 webencodings==0.5.1
 websocket-client==1.5.1
 widgetsnbextension==4.0.5
+geopandas==0.12.2
+geopy==2.3.0
+xgboost==1.7.5
+yellowbrick==1.5.0
+missingno==0.5.2
