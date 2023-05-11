@@ -18318,7 +18318,7 @@ KNN_R R2: 0.15
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>We define an objective function that takes a set of hyperparameters as input and returns a scalar value that represents the performance of the model using those hyperparameters. The objective function is what Hyperopt tries to optimize. The objective function uses 5-fold cross-validation to evaluate the performance of the model. The use of the cross-validation technique ensures that the model is not overfitting the training data and is able to generalize well to unseen data. The objective function returns the mean squared error (MSE) of the model on the validation set.</p>
+<p>We define an objective function that takes a set of hyperparameters as input and returns a scalar value that represents the performance of the model using those hyperparameters. The objective function is what Hyperopt tries to optimize. The objective function uses 5-fold cross-validation to evaluate the performance of the model. The use of the cross-validation technique ensures that the model is not overfitting the training data and is able to generalize well to unseen data. The objective function returns the root mean squared error (RMSE) of the model on the validation set.</p>
 
 </div>
 </div>
@@ -18584,7 +18584,7 @@ XGBoost R2: 0.22
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>This XGBoost Regressor model has a RMSE score of <code>4.85</code> on the test set and <code>4.84</code> on the cross validation set. This is not a significant improvement over the baseline model. The MAE score is less sensitive to outliers than the RMSE score, so we can see that the model is performing better with this metric. The R2 score of this model is <code>0.91</code>, which is a very poor score, indicating that the model didn't fit the data well.</p>
+<p>This XGBoost Regressor model has a RMSE score of <code>4.65</code> on the test set and <code>4.91</code> on the cross validation set. This is not a significant improvement over the baseline model. The MAE score is less sensitive to outliers than the RMSE score, so we can see that the model is performing better with this metric. The R2 score of this model is <code>0.22</code>, which is a very poor score, indicating that the model didn't fit the data well.</p>
 
 </div>
 </div>
